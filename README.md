@@ -28,7 +28,7 @@ All'interno della power shell digita: **cd C:\fatturezip** e premi INVIO
 ![image](https://user-images.githubusercontent.com/2527138/109398742-f6c57100-793e-11eb-81b2-c236c84b5462.png)
 
 ## Passo nr.6
-Copia le fatture (in formato xml o p7m) nella cartella "fatture"
+Copia le fatture (in formato xml o p7m) nella cartella "fatture" (I file con i metadati vengono automaticamente ignorati).
 
 ## Passo nr.7
 scrivi nella schermata: **.\crea_zip_10.ps1 -partitaIVA IT01234567890 -cartella ./fatture** e premi invio

@@ -37,4 +37,4 @@ scrivi nella schermata: **.\crea_zip_10.ps1 -partitaIVA IT01234567890 -cartella 
 ## Passo nr.8
 Troverai nella cartella **C:\fatturezip** tanti file zip chiamati **IT01234567890_00001**, **IT01234567890_00002**, ecc. ognuno con all'interno 10 fatture. Questi file possono essere inviati in conservazione
 
-### Per creare altri file, cancellare i file presenti C:\fatturezip\fatture e i file zip generati in C:\fatturezip e ripetere i passi 6, 7 e 8 avendo cura di cancellare tutte le fatture 
+### Per creare altri file, cancellare i file presenti C:\fatturezip\fatture e i file zip generati in C:\fatturezip e ripetere i passi 6, 7 e 8 

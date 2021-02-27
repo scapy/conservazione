@@ -4,7 +4,7 @@ Attraverso questo semplice script vengono creati dei file zip contentente all'in
 E' necessario avere la WindowsPowerShell installata nel PC. 
 https://docs.microsoft.com/it-it/powershell/scripting/install/installing-powershell-core-on-windows?view=powershell-7.1
 
-Passo nr. 1
+[Passo nr. 1]
 Crea la cartella C:\fatturezip
 
 Passo nr.2
